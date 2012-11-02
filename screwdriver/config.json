@@ -1,0 +1,15 @@
+{
+    "shared": {
+        "compilers": {
+            "updateversion": {
+                "compiler": "updateversion"
+            }
+        }
+    },
+
+    "jobs": {
+        "component": {
+            "compile_commands": [ "updateversion" ]
+        }
+    }
+}
