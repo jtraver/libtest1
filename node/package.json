@@ -1,0 +1,25 @@
+{
+    "name": "jtlibtest1",
+    "description": "test a nodejs library",
+    "version": "0.0.1",
+    "author": "John Traver<jt_verdius@yahoo.com>",
+    "scripts": {
+        "test": "ytestrunner -c --istanbul"
+    },
+    "engines": {
+        "node": ">=0.4.12"
+    },
+    "yahoo": {
+        "bugzilla": {
+            "product": "Screwdriver",
+            "component": "General"
+        }
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "yuitest": "*",
+        "ytestrunner": "*",
+        "mockery": "*"
+    }
+}
