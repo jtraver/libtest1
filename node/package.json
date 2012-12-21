@@ -1,7 +1,7 @@
 {
     "name": "jtlibtest1",
     "description": "test a nodejs library",
-    "version": "0.0.1-62",
+    "version": "0.0.1-63",
     "author": "John Traver<jt_verdius@yahoo.com>",
     "scripts": {
         "test": "ytestrunner -c --istanbul"
