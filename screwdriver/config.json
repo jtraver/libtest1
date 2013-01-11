@@ -6,9 +6,8 @@
             }
         }
     },
-
     "jobs": {
-        "component": {
-        }
-    }
+        "component": {}
+    },
+    "version": 2
 }
